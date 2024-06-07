@@ -18,3 +18,10 @@ Technologies Used
     Multer: Middleware for handling file uploads.
     React Router: Library for routing within the React application.
     React Quill: Rich text editor component for creating blog post content.
+    
+![SAVESAVE1](https://github.com/soham4021/blog-frontend/assets/92176024/abf2f81a-af14-4a32-bff7-9133660aba1b)
+
+![SAVESAVE2](https://github.com/soham4021/blog-frontend/assets/92176024/15bd67ad-6ae9-4905-b2d9-e61f961817c1)
+
+![SAVESAVE3](https://github.com/soham4021/blog-frontend/assets/92176024/a8ff2bd3-3577-41dd-8b59-c2756673fead)
+
